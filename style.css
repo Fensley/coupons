@@ -1,0 +1,50 @@
+/* Add CSS here */
+* {
+  box-sizing: border-box;
+}
+
+img {
+  /* border: 1px solid white; */
+  top: -30px;
+  /* left: 62%; */
+  position: relative;
+  height: 100px;
+  /* width: 250px; */
+}
+.from {
+  font-size: 30px;
+  position: relative;
+  bottom: -50px;
+}
+.happy {
+  /* height: 20px; */
+  padding: -20px;
+  background-color: #86be3f;
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+  letter-spacing: 10px;
+}
+.second-container {
+  text-align: center;
+}
+.para {
+  margin-bottom: 30px;
+  font-weight: bold;
+  font-size: 25px;
+}
+.actual {
+  margin-bottom: 30px;
+}
+
+span {
+  padding: 10px;
+  display: flex;
+  /* align-items: center; */
+  justify-content: center;
+  /* text-align: center; */
+  background-color: gray;
+  font-size: 25px;
+  letter-spacing: 10px;
+  cursor: pointer;
+}
